@@ -1,16 +1,16 @@
-Name/link,Flavour,Paid,Docking,Floating,Snapping,Packing,Draggable,Active,Notes
-[Packery](http://packery.metafizzy.co/),Flat,No,,No,,Yes,Yes,Yes,
-https://www.golden-layout.com/,Windowed,No,Yes,No,No,,Yes,Yes,
-http://www.dockspawn.com/,Windowed,No,Yes,Yes,,,Yes,No,
-http://www.jqwidgets.com/license/,Windowed,Yes,,,,,,,$899
-http://layout.jquery-dev.com/demos.cfm,Windowed,No,,,,,,Semi,No docking/snapping? Doesn't seem end-user configurable
-http://www.htmldockfloat.com/howtodoit.htm,Windowed,Yes,,,,,,No,"Very old, and paid"
-https://phosphorjs.github.io/examples/dockpanel/,Windowed,No,Yes,No,,,,Semi,
-http://isotope.metafizzy.co/layout.html,Flat,No,No,No,No,Yes,No,Yes,
-https://github.com/arctelix/drag-resize-snap,Windowed,No,Yes,Yes,,,Yes,,
-http://interactjs.io/,Windowed,No,,Yes,Yes,,Yes,,
-http://docker.webcabin.org/,Windowed,No,Yes,Yes,,,,No,
-https://troolee.github.io/gridstack.js/,Flat,No,No,No,Yes,Yes,,No,
-http://jspanel.de/,Windowed,No,No,Yes,No,No,Yes,Yes,
-https://github.com/arctelix/drag-resize-snap,Windowed,No,Yes,Yes,No,,Yes,No,
-https://github.com/bulentv/FDWjs,Windowed,No,Yes,Yes,No,No,Yes,No,
+Name,Link,Flavour,Paid,Docking,Floating,Snapping,Packing,Draggable,Active,Notes
+Packery,http://packery.metafizzy.co/,Flat,No,,No,,Yes,Yes,Yes,
+Golden Layout,https://www.golden-layout.com/,Windowed,No,Yes,No,No,,Yes,Yes,
+Dock Spawn,http://www.dockspawn.com/,Windowed,No,Yes,Yes,,,Yes,No,
+JQ Widgets,http://www.jqwidgets.com/license/,Windowed,Yes,,,,,,,$899
+JQuery Layout,http://layout.jquery-dev.com/demos.cfm,Windowed,No,,,,,,Semi,No docking/snapping? Doesn't seem end-user configurable
+HTML Dock Float,http://www.htmldockfloat.com/howtodoit.htm,Windowed,Yes,,,,,,No,"Very old, and paid"
+PhosphorJS,https://phosphorjs.github.io/examples/dockpanel/,Windowed,No,Yes,No,,,,Semi,
+Isotope,http://isotope.metafizzy.co/layout.html,Flat,No,No,No,No,Yes,No,Yes,
+Interact.JS,http://interactjs.io/,Windowed,No,,Yes,Yes,,Yes,,
+WebCabin Docker,http://docker.webcabin.org/,Windowed,No,Yes,Yes,,,,No,
+GridStack,https://troolee.github.io/gridstack.js/,Flat,No,No,No,Yes,Yes,,No,
+JSPanel,http://jspanel.de/,Windowed,No,No,Yes,No,No,Yes,Yes,
+Drag-Resize-Snap,https://github.com/arctelix/drag-resize-snap,Windowed,No,Yes,Yes,No,,Yes,No,
+FDW.js,https://github.com/bulentv/FDWjs,Windowed,No,Yes,Yes,No,No,Yes,No,
+
